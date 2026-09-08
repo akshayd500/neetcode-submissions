@@ -21,3 +21,4 @@ class Solution:
         elif list2:
             current.next = list2
         return dummy.next
+        
